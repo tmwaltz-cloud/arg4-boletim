@@ -11,5 +11,3 @@ A partir de hoje, este espaço publica, em dias úteis, um resumo do que mudou n
 ## Como ler
 
 Cada edição traz os fatos com a fonte indicada e um comentário curto da ARG4. Quando um tema exigir análise do caso concreto da sua empresa, fale com a gente.
-
-*Conteúdo informativo. Não é parecer nem recomendação para um caso específico.*
