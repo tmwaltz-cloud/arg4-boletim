@@ -1,12 +1,13 @@
 # Boas-vindas ao Boletim ARG4
 
-A partir de hoje, este espaço publica, em dias úteis, um resumo do que mudou no ambiente tributário e econômico que afeta pequenas e médias empresas: legislação, Reforma Tributária, prazos e indicadores.
+A partir de hoje, este espaço publica, em dias úteis, um resumo informativo sobre o que muda no ambiente de negócios das empresas: economia, tributos, gestão, negócios e boas práticas de crédito.
 
 ## O que você vai encontrar aqui
 
-- **Legislação e Reforma Tributária:** o que foi publicado e o que muda na prática para a empresa.
-- **Prazos:** obrigações e datas que merecem atenção.
-- **Indicadores:** Selic, câmbio e inflação, com leitura objetiva do impacto no caixa.
+- **Economia:** Selic, câmbio, inflação e atividade, com leitura objetiva do impacto no caixa.
+- **Tributos:** legislação, Reforma Tributária e prazos que merecem atenção.
+- **Gestão e negócios:** preço, custos, indicadores e decisões do dia a dia da empresa.
+- **Boas práticas de crédito:** como vender a prazo com mais segurança, avaliar quem compra de você e cobrar melhor.
 
 ## Como ler
 
